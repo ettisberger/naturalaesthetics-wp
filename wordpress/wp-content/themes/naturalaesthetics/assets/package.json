@@ -5,8 +5,9 @@
   "repository": "https://github.com/ettisberger/naturalaesthetics-wp.git",
   "main": "Gruntfile.js",
   "author": "andy@ettisberger.ch",
+  "license": "MIT",
   "dependencies": {
-    "autoprefixer-core": "*",
+    "autoprefixer": "*",
     "grunt": "*",
     "grunt-bower-concat": "*",
     "grunt-contrib-clean": "*",
