@@ -1,0 +1,21 @@
+{
+  "name": "Wordpress-Theme-NaturalAesthetics",
+  "version": "0.0.1",
+  "description": "Wordpress Theme für naturalaesthetics.ch",
+  "repository": "https://github.com/ettisberger/naturalaesthetics-wp.git",
+  "main": "Gruntfile.js",
+  "author": "andy@ettisberger.ch",
+  "dependencies": {
+    "autoprefixer-core": "*",
+    "grunt": "*",
+    "grunt-bower-concat": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-postcss": "*"
+  }
+}

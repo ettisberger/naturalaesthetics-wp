@@ -1,0 +1,25 @@
+{
+  "name": "Natural Aesthetics",
+  "version": "0.0.1",
+  "authors": [
+    "NaturalAesthetics <info@naturalaesthetics.ch>"
+  ],
+  "description": "Natural Aesthetics Webseite",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "www.naturalaesthetics.ch",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "2.6.2",
+    "animate.css": "3.5.2"
+  }
+}

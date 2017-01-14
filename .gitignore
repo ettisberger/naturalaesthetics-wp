@@ -7,6 +7,9 @@ wordpress/wp-content/*
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/naturalaesthetics/
 
+node_modules/
+bower_components/
+
 # Logs
 logs
 *.log
