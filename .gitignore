@@ -53,3 +53,7 @@ Thumbs.db
 # IDE #
 .idea/
 *.swp
+
+# Cache #
+.sass-cache
+.tmp

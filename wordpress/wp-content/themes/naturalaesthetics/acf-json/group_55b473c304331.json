@@ -10,7 +10,7 @@
             "append": "",
             "key": "field_55b473fe3cd67",
             "label": "Titel",
-            "name": "title",
+            "name": "page-title",
             "type": "text",
             "instructions": "",
             "required": 1,
@@ -19,9 +19,7 @@
                 "width": "",
                 "class": "",
                 "id": ""
-            },
-            "readonly": 0,
-            "disabled": 0
+            }
         },
         {
             "default_value": "",
@@ -31,7 +29,7 @@
             "append": "",
             "key": "field_56a245b219c76",
             "label": "Slogan",
-            "name": "slogan",
+            "name": "page-slogan",
             "type": "text",
             "instructions": "",
             "required": 0,
@@ -40,9 +38,7 @@
                 "width": "",
                 "class": "",
                 "id": ""
-            },
-            "readonly": 0,
-            "disabled": 0
+            }
         },
         {
             "return_format": "url",
@@ -57,7 +53,7 @@
             "mime_types": "",
             "key": "field_56b387b785fe7",
             "label": "Bild",
-            "name": "image",
+            "name": "page-image",
             "type": "image",
             "instructions": "",
             "required": 0,
@@ -96,6 +92,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1484685274,
-    "local": "php"
+    "modified": 1485205262
 }
